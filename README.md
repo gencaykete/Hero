@@ -41,9 +41,11 @@ npm start
 ## Ekran Görüntüleri
 
 ![Ana Sayfa](/screenshots/1.png)
+
 *Ana Sayfa: Süper kahramanların listesi ve arama kutusu*
 
 ![Detay Sayfası](/screenshots/2.png)
+
 *Detay Sayfası: Seçilen süper kahramanın detayları ve güç istatistikleri*
 
 ## Katkıda Bulunma
